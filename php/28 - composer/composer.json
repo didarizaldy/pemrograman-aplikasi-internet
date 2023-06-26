@@ -1,0 +1,10 @@
+{
+  "require": {
+    "monolog/monolog": "1.23.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "19158578\\php\\28 - composer\\": "src/"
+    }
+  }
+}
